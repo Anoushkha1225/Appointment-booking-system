@@ -1,4 +1,1 @@
-# Appointment-booking-system
-Appointment booking system using chatbot
-I've created an appointment booking system with chatbot, in a static website using a website called voiceflow.
-Using different workflows of the website, we can easily integrate it into our website.
+An AI-powered chatbot that streamlines the process of appointment scheduling for businesses like clinics, salons, and consultancies. The bot interacts with users in natural language, understands their preferences, checks real-time availability, and confirms appointments. It also sends reminders, manages cancellations or rescheduling, and integrates seamlessly with calendar systems like Google Calendar.
